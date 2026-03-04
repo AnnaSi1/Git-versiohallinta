@@ -1,3 +1,6 @@
-Git-versionhallinta - SOF013AS2A-3002
+# Git-versionhallinta
+Kurssi: Git-versionhallinta - SOF013AS2A-3002
+
 Tekijä: Anna Silvola
-Lyhyt selvitys, mitä repositoriossa on
+
+Tässä repositorissa on Hello-ohjelma (harjoitukset 1-7).
